@@ -70,7 +70,7 @@ This project implements a deep convolutional neural network (CNN) to classify ha
 ### Method 1: Google Colab (Recommended)
 1. [Open this notebook](https://colab.research.google.com/drive/1PxygFhHZ_kf95_bHYWNGYntDR2VkCC8L?usp=sharing) in Google Colab
 2. Run each code cell in order
-3. If you'd prefer to evaluate the model without training it yourself, download the model [here](https://github.com/bchafe/PyDCNN/raw/refs/heads/main/PyDCNN.pkl) and follow the instructions in the notebook
+3. If you'd prefer to evaluate the model without training it yourself, [download the model](https://github.com/bchafe/PyDCNN/raw/refs/heads/main/PyDCNN.pkl) and follow the instructions in the notebook
 ### Method 2: Run the notebook locally
 1. Clone this repository
 2. Open a shell in the cloned directory and install dependencies:
