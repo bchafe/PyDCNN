@@ -4,6 +4,7 @@
 ## Overview
 This project implements a deep convolutional neural network (CNN) to classify handwritten digits from the MNIST dataset. The goal of this project was to design, train and evaluate a high-performance image classification model in Python while gaining hands-on experience with deep learning workflows and computer vision techniques.
 
+---
 ![PyDCNN Architecture](https://raw.githubusercontent.com/bchafe/PyDCNN/refs/heads/main/images/architecture.png)
 
 ## Objectives
